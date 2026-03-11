@@ -1,7 +1,7 @@
 # 🌟 Olá, mundo! Prazer, Letícia Ramos 👋  
 
 Sou apaixonada por tecnologia e desenvolvimento, sempre explorando novas formas de transformar ideias em soluções reais.  
-Atualmente, estou desenvolvendo sistemas em **PHP, CodeIgniter 4, Tailwind**, além de automatizações, bots e aplicações diversas.  
+Atualmente, estou desenvolvendo sistemas em **PHP, CodeIgniter 4, Bootsrap, Tailwind, Firebase, JS (Vanilla)**
 Gosto de aprender fazendo — e cada projeto que construo é uma nova oportunidade de evoluir.
 
 ---
